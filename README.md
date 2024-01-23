@@ -1,6 +1,6 @@
 👋 Hello there, I'm Kirill
 -
-:mechanical_arm: A passionate Automation & Junior Software Engineer on a journey to explore and innovate in the world of Web Development.
+:mechanical_arm: A passionate Automation & Junior Software Engineer on a journey to explore and innovate in the world of Software Development.
 
 📚 As a lifelong learner, I am always exploring new technologies and methodologies to enhance my skills. I believe in the power of continuous improvement and am excited to contribute my knowledge to the ever-evolving tech landscape.
 
