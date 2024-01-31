@@ -30,5 +30,7 @@
 
 :telescope: Find me at
 -
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirill-sannikov/) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirill-sannikov/)
+[![XING]([https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://pages.github.com/](https://www.xing.com/profile/Kirill_Sannikov)).
+
 
